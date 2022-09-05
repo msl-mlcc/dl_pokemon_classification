@@ -2,4 +2,6 @@
 Using Deep Learning to classify pokemon
 
 pokemon_classifier.ipynb --> My solution to classify pokemon
-pokemon directory --> Contains the original pokemon directory. Train and Val directory was created for training and validation.
+
+train_*.zip --> contains the training files. Create train directory and unzip all train_8.zip in the train directory.
+val.zip --> contains the validation files.
